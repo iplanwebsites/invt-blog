@@ -16,6 +16,7 @@ author: "Owc4NhV2y"
 created: "2021-05-11T14:19:55.360Z"
 modified: "2021-05-13T22:58:45.888Z"
 unsplashPhotoId: "unRkg2jH1j0"
+cover: "unRkg2jH1j0.jpg"
 ---
 Surveys are one of the most convenient ways to earn money from home. You don't have to leave your house, you can do it in your pajamas or even less!
 

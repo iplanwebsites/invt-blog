@@ -16,6 +16,7 @@ author: "Owc4NhV2y"
 created: "2021-05-11T14:56:55.765Z"
 modified: "2021-06-01T02:17:09.447Z"
 unsplashPhotoId: "6udWBRfr0Io"
+cover: "6udWBRfr0Io.jpg"
 ---
 It's a tough world out there. You're reading this, so you probably know that being an influencer is no cakewalk.
 

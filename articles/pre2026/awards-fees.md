@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2022-05-24T02:54:22.570Z"
 modified: "2022-06-30T06:11:17.853Z"
 unsplashPhotoId: "ZVprbBmT8QA"
+cover: "ZVprbBmT8QA.jpg"
 ---
 We’re grateful that most users gave positive feedback for the “Awards” feature. This milestone success has motivated the team to improve the feature further. Our inbox received messages too about the fees and processes for “Awards”.
 

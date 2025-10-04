@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T13:12:48.284Z"
 modified: "2022-06-09T04:51:41.822Z"
 unsplashPhotoId: "CXlqHmQy3MY"
+cover: "CXlqHmQy3MY.jpg"
 featuredReferralProgramTag: "vpn"
 ---
 Privacy is an important matter for the average person on the internet. There are many mysteries that we might be unaware of, so it's always best to have the most security that you can get. Virtual private networks (VPNs) are the way to go because you get an encrypted connection over the internet. Therefore, if you send over information, it's guaranteed to be sent safely.

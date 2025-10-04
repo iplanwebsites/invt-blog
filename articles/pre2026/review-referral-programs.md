@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:30:40.220Z"
 modified: "2022-06-09T04:27:40.611Z"
 unsplashPhotoId: "vbxyFxlgpjM"
+cover: "vbxyFxlgpjM.jpg"
 featuredReferralProgramTag: "review"
 ---
 Are you a natural critic? Or are you someone who just likes giving feedback? It's a fulfilling hobby to review various apps and services because it makes you feel that you're doing your part in the society. Giving reviews nowadays are even better.

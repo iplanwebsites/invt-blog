@@ -10,7 +10,8 @@ categoryLabel: getting started
 author: 'Owc4NhV2y'
 created: '2021-05-25T13:01:54.103Z'
 modified: '2022-06-30T05:56:14.337Z'
-unsplashPhotoId: 'n0CTq0rroso'
+unsplashPhotoId: "'n0CTq0rroso'"
+cover: "'n0CTq0rroso'.jpg"
 hasPhotoColorFilter: true
 ---The 3 mains ways people will discover your posts :
 

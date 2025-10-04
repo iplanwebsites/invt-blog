@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T12:44:19.954Z"
 modified: "2022-06-09T03:45:15.215Z"
 unsplashPhotoId: "M2524ncJQ40"
+cover: "M2524ncJQ40.jpg"
 featuredReferralProgramTag: "marketplace"
 ---
 Marketplace apps and sites are fun communities. You get to buy and sell products you use to people who possibly have the same interests with you. It's like a more personalized business model. What makes these apps and sites more enjoyable is that those who organize or create them offer referral rewards too.

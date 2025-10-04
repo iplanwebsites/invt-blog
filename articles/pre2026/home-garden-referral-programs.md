@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-06-03T13:56:54.571Z"
 unsplashPhotoId: "koy6FlCCy5s"
+cover: "koy6FlCCy5s.jpg"
 featuredReferralProgramTag: "home-garden"
 ---
 Building a garden provides a refreshing feeling to people. We've collected some referral programs that can provide you great deals and offer you income-saving discounts. Browse through them right away and who knows? Your favorite store might be here too!

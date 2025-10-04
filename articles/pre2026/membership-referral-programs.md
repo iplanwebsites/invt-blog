@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T12:55:53.074Z"
 modified: "2022-06-09T04:49:51.064Z"
 unsplashPhotoId: "smgTvepind4"
+cover: "smgTvepind4.jpg"
 featuredReferralProgramTag: "membership"
 ---
 Memberships are a great way of availing your favorite things from your favorite brands. They give people a sense of exclusivity. Some might think that they're only a form of luxuries, but there are actually memberships that offer you more savings rather than availing a product or service for a specific period of time.

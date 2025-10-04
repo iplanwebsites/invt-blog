@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:23:03.476Z"
 unsplashPhotoId: "mcSDtbWXUZU"
+cover: "mcSDtbWXUZU.jpg"
 featuredReferralProgramTag: "advertising-marketing-tools"
 ---
 Effective marketing strategies are ones that create results from the least of costs. These tools add value to your advertising/marketing strategies by having discounts or free subscriptions. Take a look at the possibilities that could help you save and earn more!

@@ -10,6 +10,7 @@ author: "Owc4NhV2y"
 created: "2022-06-08T07:50:13.175Z"
 modified: "2022-06-08T07:51:03.572Z"
 unsplashPhotoId: "Cecb0_8Hx-o"
+cover: "Cecb0_8Hx-o.jpg"
 ---
 Referral marketing has come a long way because of innovations in the digital space. The concept of referrals opened opportunities for anyone looking to earn extra income. Referrals are not a one-man job, you need other people too. The best way to start is to find your community.
 

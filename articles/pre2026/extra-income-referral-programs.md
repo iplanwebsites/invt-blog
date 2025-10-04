@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T11:04:25.833Z"
 modified: "2022-06-09T03:36:58.812Z"
 unsplashPhotoId: "Jr8byYZmTTU"
+cover: "Jr8byYZmTTU.jpg"
 featuredReferralProgramTag: "extra income"
 ---
 Earning extra income can be tedious. Despite having numerous ways that let you grow your investment, it can still be said that extra income is really just extra.

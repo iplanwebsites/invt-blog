@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:20:46.253Z"
 unsplashPhotoId: "QckxruozjRg"
+cover: "QckxruozjRg.jpg"
 featuredReferralProgramTag: "social"
 ---
 Human connection is a necessity nowadays. That's why social apps are incredibly helpful. With a single click, you can connect with your loved ones wherever they are.

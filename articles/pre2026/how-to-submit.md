@@ -15,6 +15,7 @@ author: "Owc4NhV2y"
 created: "2021-10-18T06:02:56.138Z"
 modified: "2022-06-30T04:32:39.690Z"
 unsplashPhotoId: "YJxAy2p_ZJ4"
+cover: "YJxAy2p_ZJ4.jpg"
 ---
 One of the goals of Invitation is to give you a detailed collection of various referral programs that you'll find on the internet, along with Invitation's [main features](https://next.invitation.codes/mag/main-features). Today, we're giving you a quick guide on how to add new sites and apps to this collection.  [Searched](https://next.invitation.codes/programs)&nbsp;and didn't find your site?
 

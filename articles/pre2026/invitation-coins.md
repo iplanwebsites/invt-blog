@@ -13,6 +13,7 @@ author: "Owc4NhV2y"
 created: "2021-05-10T21:26:25.647Z"
 modified: "2021-09-30T14:20:19.047Z"
 unsplashPhotoId: "Jr8byYZmTTU"
+cover: "Jr8byYZmTTU.jpg"
 hasPhotoColorFilter: true
 ---
 ## **What can I do with coins?**

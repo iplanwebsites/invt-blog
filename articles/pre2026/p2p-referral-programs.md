@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T12:40:04.501Z"
 modified: "2022-06-09T04:02:28.536Z"
 unsplashPhotoId: "aWf7mjwwJJo"
+cover: "aWf7mjwwJJo.jpg"
 featuredReferralProgramTag: "p2p"
 ---
 Sometimes, you will prefer to engage in an interaction with a fellow individual, rather than the actual business when it comes to transactions. This is why p2p platforms are on the rise nowadays. Instead of having limited options, you get flexible deals because you're in business with a fellow person.

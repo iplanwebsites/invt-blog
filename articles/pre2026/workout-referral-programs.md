@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-11T13:05:58.454Z"
 modified: "2022-06-09T04:45:49.768Z"
 unsplashPhotoId: "IZOAOjvwhaM"
+cover: "IZOAOjvwhaM.jpg"
 featuredReferralProgramTag: "workout"
 ---
 Exercise helps us keep the body in shape. It's flexible nowadays. You can work out either to look good, to stay healthy, or even to build up strength. No matter what the purpose is, there's a goal to meet when it comes to workout exercises. There are many tools that you can use too, to keep track of your progress.

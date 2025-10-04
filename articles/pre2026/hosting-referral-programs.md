@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:20:52.419Z"
 unsplashPhotoId: "M5tzZtFCOfs"
+cover: "M5tzZtFCOfs.jpg"
 featuredReferralProgramTag: "hosting"
 ---
 It's annoying to switch website hosts, so companies are investing aggressively into referrals. If you are a developer, work in tech or related field, you might earn generous rewards by recommending hosting and domain names providers. DigitalOcean is especially easy to recommend as it's priced very aggressively.

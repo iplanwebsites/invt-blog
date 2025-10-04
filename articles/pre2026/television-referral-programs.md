@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-11T11:58:57.494Z"
 modified: "2022-06-09T04:39:55.469Z"
 unsplashPhotoId: "a5RK_uk5Ej0"
+cover: "a5RK_uk5Ej0.jpg"
 featuredReferralProgramTag: "television"
 ---
 Watching your favorite show is a great way to pass the time. You wouldn't actually notice how much time has passed if you're watching a show with great plot. Businesses have made it possible to earn revenue from television apps and sites.

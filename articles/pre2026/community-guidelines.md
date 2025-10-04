@@ -15,6 +15,7 @@ author: "Owc4NhV2y"
 created: "2021-07-01T14:39:34.994Z"
 modified: "2021-11-23T03:30:15.241Z"
 unsplashPhotoId: "nSpj-Z12lX0"
+cover: "nSpj-Z12lX0.jpg"
 ---
 Invitation is an ad-free, independent, community. It lets people organize and share their referral codes for various products. Rewards and savings have brought us together.
 

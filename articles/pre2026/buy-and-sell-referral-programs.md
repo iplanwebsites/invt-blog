@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-03T15:00:02.790Z"
 modified: "2022-06-09T03:34:39.607Z"
 unsplashPhotoId: "31l-8hY1mt4"
+cover: "31l-8hY1mt4.jpg"
 featuredReferralProgramTag: "buy and sell"
 ---
 Buy and sell platforms are extremely active nowadays, especially with the situation most countries are experiencing right now, the global pandemic. People buy a sellable product at a low prices, find ways to improve that specific product, and sell them at a higher price.

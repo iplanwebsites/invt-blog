@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:25:45.266Z"
 unsplashPhotoId: "Zxl_m4KVZDs"
+cover: "Zxl_m4KVZDs.jpg"
 featuredReferralProgramTag: "beauty"
 ---
 Health and beauty products are a huge part of people's lives. Buying them makes you feel good, and these referral programs would make you feel better!

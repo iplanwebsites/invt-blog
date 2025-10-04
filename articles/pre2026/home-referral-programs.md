@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-09-02T14:34:20.704Z"
 unsplashPhotoId: "MP0bgaS_d1c"
+cover: "MP0bgaS_d1c.jpg"
 featuredReferralProgramTag: "home"
 ---
 As the world is gearing towards a highly technological society, tons of apps and sites are coming up to bring convenience to your home. Some are environmental-friendly and some offer a great lifestyle. These home apps and sites have one thing in common, referral programs!

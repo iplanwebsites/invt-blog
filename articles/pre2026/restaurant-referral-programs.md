@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T14:18:24.695Z"
 modified: "2022-06-09T04:04:42.357Z"
 unsplashPhotoId: "poI7DelFiVA"
+cover: "poI7DelFiVA.jpg"
 featuredReferralProgramTag: "restaurant"
 ---
 There's a different feeling eating outside compared to eating at home. There are some cases that one is better than the other, depending on the occasion. This article is for the restaurant lovers out there. Food can be costly at restaurants, but we all know that you're not just paying for the meal.

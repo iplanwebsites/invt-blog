@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-31T14:41:18.712Z"
 modified: "2021-08-31T15:24:43.702Z"
 unsplashPhotoId: "lHMatucgfVk"
+cover: "lHMatucgfVk.jpg"
 hasPhotoColorFilter: false
 ---
 Every social media platform has one common goal, which is accessibility. If you can use your social media account on a desktop, it's given that you should also be able to use it on your phone. However, social media apps made for websites are sometimes not compatible to use on your mobile device. We always think about this, as more and more people ask for a mobile version of Invitation.

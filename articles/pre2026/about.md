@@ -14,6 +14,7 @@ author: "Owc4NhV2y"
 created: "2021-05-27T23:34:31.022Z"
 modified: "2022-06-16T05:28:56.801Z"
 unsplashPhotoId: "wawEfYdpkag"
+cover: "wawEfYdpkag.jpg"
 hasPhotoColorFilter: true
 ---
 ### Putting referral marketing forward

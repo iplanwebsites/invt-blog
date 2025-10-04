@@ -16,6 +16,7 @@ author: "Owc4NhV2y"
 created: "2021-05-11T13:26:19.928Z"
 modified: "2021-05-13T22:59:57.589Z"
 unsplashPhotoId: "VeiqoYAEeis"
+cover: "VeiqoYAEeis.jpg"
 ---
 Several businesses around the globe are jumping into Instagram to boost their brand awareness and attract more customers. If you’re a marketer yourself, you surely don’t want to miss out on making the most out of the social media platform. If you sell your brand on Instagram, endless opportunities await. That’s said, with thousands of competitors on Instagram, how can your brand rise above the competition? One way is to get creative with your campaigns. Below are creative ways to sell on Instagram, so you can get more attention and web traffic, and turn users into loyal customers.
 

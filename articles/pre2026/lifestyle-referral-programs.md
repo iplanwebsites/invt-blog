@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-08-12T13:35:41.245Z"
 unsplashPhotoId: "Yui5vfKHuzs"
+cover: "Yui5vfKHuzs.jpg"
 featuredReferralProgramTag: "lifestyle"
 ---
 Did you know that most apps nowadays showcase their value by helping your daily routine easier? From pedometers to workout-at-home apps, they just want to make your life easier! On top of that, these companies complement each other, and offer a wide range of bonuses when you invite your friends to use them. 

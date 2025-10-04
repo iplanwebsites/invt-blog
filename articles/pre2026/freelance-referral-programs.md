@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T14:03:42.991Z"
 modified: "2022-06-09T04:03:11.100Z"
 unsplashPhotoId: "KZocXyI3kRo"
+cover: "KZocXyI3kRo.jpg"
 featuredReferralProgramTag: "freelance"
 ---
 Freelancers have been in the economy even before the online generation. It's fair compensation in exchange for your services. Nowadays, you can get a project even when you're staying at home. There are several benefits to enjoy when you're working as a freelancer. One of the famous perks is more time to manage. Now, combine this system with referral marketing.

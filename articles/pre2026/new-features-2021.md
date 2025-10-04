@@ -16,6 +16,7 @@ author: "Owc4NhV2y"
 created: "2021-05-25T13:23:18.855Z"
 modified: "2023-03-28T14:28:34.720Z"
 unsplashPhotoId: "SYTO3xs06fU"
+cover: "SYTO3xs06fU.jpg"
 ---
 Your favorite site for collecting and posting referral codes/links, made faster, stronger and friendlier! We’re happy that you joined us in a roller coaster journey this early. As we grow with you, Invitation aims to provide you value and perks the more you stay with us! We made this fun article to get you more excited of what’s in store for you, for us, and for every friend that we will make together.
 

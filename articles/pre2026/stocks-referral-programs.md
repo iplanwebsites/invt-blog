@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T15:19:42.191Z"
 modified: "2022-06-09T03:52:02.255Z"
 unsplashPhotoId: "uJhgEXPqSPk"
+cover: "uJhgEXPqSPk.jpg"
 featuredReferralProgramTag: "stocks"
 ---
 Stocks have been in the economy even before the age of the internet generation. People often invest in companies that are either well-known or prominent in the market. In the past, getting shares of a particular stock is difficult as more processes are involved.

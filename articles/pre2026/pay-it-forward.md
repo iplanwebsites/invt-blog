@@ -13,6 +13,7 @@ author: "Owc4NhV2y"
 created: "2021-06-28T14:32:53.623Z"
 modified: "2021-09-15T14:49:08.024Z"
 unsplashPhotoId: "Zyx1bK9mqmA"
+cover: "Zyx1bK9mqmA.jpg"
 ---
 It has been a rollercoaster ride for Invitation ever since the website started last year in 2020. A simple idea of making the most out of referral rewards turned out to be something big, not just for the users who stayed from the beginning, but also to the team that has been working on the platform.
 

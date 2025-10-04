@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-11T12:38:25.933Z"
 modified: "2022-06-09T04:40:04.278Z"
 unsplashPhotoId: "KfvknMhkmw0"
+cover: "KfvknMhkmw0.jpg"
 featuredReferralProgramTag: "product"
 ---
 E-commerce has come a long way ever since its first step into the growing economy. You can simply purchase your favorite products on your preferred stores. Before, you would have to travel a lot if you have a favorite product that is hard to find. It was really challenging for consumers to buy something before the age of the internet.

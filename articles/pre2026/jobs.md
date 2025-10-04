@@ -12,6 +12,7 @@ author: "Owc4NhV2y"
 created: "2021-05-10T22:12:46.698Z"
 modified: "2021-05-31T11:39:59.764Z"
 unsplashPhotoId: "JBwcenOuRCg"
+cover: "JBwcenOuRCg.jpg"
 ---
 # **About us 🦄**
 

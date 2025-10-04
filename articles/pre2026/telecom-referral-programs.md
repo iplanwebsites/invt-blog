@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-08-12T13:34:13.510Z"
 unsplashPhotoId: "0VGG7cqTwCo"
+cover: "0VGG7cqTwCo.jpg"
 featuredReferralProgramTag: "telecom"
 ---
 Phone subscriptions are wonderful, don't you think? You can call or text someone nowadays with a single click. There's little to no waiting time when communicating with your loved ones wherever they are. 

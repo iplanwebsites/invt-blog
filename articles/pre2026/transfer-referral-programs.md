@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T15:15:56.912Z"
 modified: "2022-06-09T03:50:29.525Z"
 unsplashPhotoId: "OCrPJce6GPk"
+cover: "OCrPJce6GPk.jpg"
 featuredReferralProgramTag: "money transfer"
 ---
 Money transfer services have been essential as time passed by. There are circumstances that we have to be away from our loved ones to take opportunities. Now and then, there comes a time when you have to keep in touch to help them, or to just send gifts.

@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:32:00.658Z"
 modified: "2022-06-09T04:28:08.154Z"
 unsplashPhotoId: "6dW3xyQvcYE"
+cover: "6dW3xyQvcYE.jpg"
 featuredReferralProgramTag: "work"
 ---
 There are more ways to get into employment nowadays. Most physical jobs are transitioning into a more balanced work lifestyle. It's a combination of tasks that lets you work physically and mentally. To make things even simpler, there are jobs that you can take using various apps and websites.

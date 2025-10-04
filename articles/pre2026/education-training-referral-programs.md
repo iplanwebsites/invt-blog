@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T02:22:02.751Z"
 unsplashPhotoId: "GWbIHT51VT4"
+cover: "GWbIHT51VT4.jpg"
 featuredReferralProgramTag: "education"
 ---
 If you're trying to learn new things through enrolling in courses online on different education and training platforms, you might want to check their referral programs too. Inviting your friends can get you either a free course, discount codes, or even a free 1-year subscription. Never miss out on these deals on Invitation!

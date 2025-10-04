@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:10:54.530Z"
 modified: "2022-06-09T04:27:28.106Z"
 unsplashPhotoId: "6Xb0-zJM_lU"
+cover: "6Xb0-zJM_lU.jpg"
 featuredReferralProgramTag: "grocery"
 ---
 Buying groceries is fun. You get to see what deals that your local market has, and the limited sale makes the experience more exciting! Imagine yourself saving a couple of cents or even dollars by taking exclusive bundles.

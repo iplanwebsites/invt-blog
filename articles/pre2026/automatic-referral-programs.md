@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T13:11:08.666Z"
 modified: "2022-06-09T04:33:00.706Z"
 unsplashPhotoId: "qNKfj9mgraI"
+cover: "qNKfj9mgraI.jpg"
 featuredReferralProgramTag: "automatic"
 ---
 It has become convenient for everyone how automatic most things are nowadays. Almost every process or service that you can think of has been simplified. A great example would be automatic payments. In the past you would have to go to a bank or payment center to settle something, but now your payment can be taken from your bank account within a few minutes.

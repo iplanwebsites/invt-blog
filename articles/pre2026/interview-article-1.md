@@ -14,6 +14,7 @@ authorShortid: "EY-EYq4Qg"
 created: "2021-05-11T13:09:52.439Z"
 modified: "2021-05-14T12:25:32.280Z"
 unsplashPhotoId: "JrjhtBJ-pGU"
+cover: "JrjhtBJ-pGU.jpg"
 ---
 How's it going guys? One of the goals here on Invitation is to bring people together. The best way to approach this is through testimonials! Here's a first part of a series of interviews with all kinds of members here on the platform. Join us as we get to know the people who are active in the community, and let's all learn their life-hacks and learnings on Invitation. The first member to be featured in this series is @CryptoKing.
 

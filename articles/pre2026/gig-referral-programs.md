@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T02:21:32.944Z"
 unsplashPhotoId: "tL92LY152Sk"
+cover: "tL92LY152Sk.jpg"
 featuredReferralProgramTag: "gig"
 ---
 The gig economy is here to stay and help a number of people supplement their income. Referring qualified new ride-share drivers or Airbnb hosts have some of the biggest payouts. You are basically referring an employee which is invaluable for the platforms, and they'll reward you generously.

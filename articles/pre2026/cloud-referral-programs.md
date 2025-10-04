@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-03T14:51:35.125Z"
 modified: "2022-06-09T03:34:30.011Z"
 unsplashPhotoId: "iar-afB0QQw"
+cover: "iar-afB0QQw.jpg"
 featuredReferralProgramTag: "cloud"
 ---
 The invention of cloud in today's technology is revolutionary, especially in the data industry. Its purpose has made everyone's data more convenient and accessible. You simply get a secure online storage for your important files, but what if there's more?

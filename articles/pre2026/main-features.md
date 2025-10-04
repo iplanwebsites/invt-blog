@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-06-14T14:58:34.591Z"
 modified: "2022-06-30T04:36:06.638Z"
 unsplashPhotoId: "mTYRfrFVDCY"
+cover: "mTYRfrFVDCY.jpg"
 ---
 You might be wondering, why is the Invitation community continuously growing? What makes the people stay? A straightforward and honest answer we can give you is simply our features. They’re easy to use, complement each other well, and the right fit for the referral codes and links that you post on your profile. Know each benefit that they give to members. Here’s what the fuss is all about!
 

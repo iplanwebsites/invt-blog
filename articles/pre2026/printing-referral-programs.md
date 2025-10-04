@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-09-02T14:21:36.522Z"
 unsplashPhotoId: "Tzm3Oyu_6sk"
+cover: "Tzm3Oyu_6sk.jpg"
 featuredReferralProgramTag: "printing"
 ---
 These days, printing an important document can be done with a single click. Whether you're a regular consumer or a business, there are companies out there willing to give you rewards when you convince your friends to avail their app or service.

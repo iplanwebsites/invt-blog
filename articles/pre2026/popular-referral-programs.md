@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T12:30:32.207Z"
 modified: "2022-06-09T03:54:18.413Z"
 unsplashPhotoId: "C2CYPENZ7LA"
+cover: "C2CYPENZ7LA.jpg"
 featuredReferralProgramTag: "popular"
 ---
 Referral programs know no limits. Even popular apps and sites use them. You can say that referrals are a more authentic way to grow your customer base. It's word-of-mouth put into practice. The most popular companies in the world even have them.

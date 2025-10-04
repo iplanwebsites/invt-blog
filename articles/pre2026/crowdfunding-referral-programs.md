@@ -14,6 +14,7 @@ userTags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-09-02T14:14:52.597Z"
 unsplashPhotoId: "83JZupwXfhU"
+cover: "83JZupwXfhU.jpg"
 featuredReferralProgramTag: "crowdfunding"
 ---
 Crowdfunding is a great way not only to help others in times of need, but also to give the ones who deserve a chance to take a shot on their dreams. They say that those with a big heart are rewarded abundantly, and we agree to that as well.

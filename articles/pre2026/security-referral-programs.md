@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T08:49:22.955Z"
 modified: "2022-06-09T03:52:14.265Z"
 unsplashPhotoId: "mT7lXZPjk7U"
+cover: "mT7lXZPjk7U.jpg"
 featuredReferralProgramTag: "security"
 ---
 As time passes by, you create more accounts on the internet for the services and products you use. Sometimes you keep one password for all, but most of the time you need to have different ones. Online security is a necessity nowadays. That's why there are several authentication apps and sites that help you keep your online information free from threats. Some people don't realize this yet.

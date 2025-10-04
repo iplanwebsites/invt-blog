@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:28:13.839Z"
 unsplashPhotoId: "Q4W8GjjKjuw"
+cover: "Q4W8GjjKjuw.jpg"
 featuredReferralProgramTag: "cryptocurrency"
 ---
 Cryptocurrency sells like hot bread. No one ever knows when is the right time to buy. Invitation has this collection of referral programs to ensure you that what you invest has more value!

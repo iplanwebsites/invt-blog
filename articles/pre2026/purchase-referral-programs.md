@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T10:55:30.373Z"
 modified: "2022-06-09T03:54:09.061Z"
 unsplashPhotoId: "WiE01mC9AtY"
+cover: "WiE01mC9AtY.jpg"
 featuredReferralProgramTag: "purchase"
 ---
 Everyone likes exclusive deals. Whether it's a coupon, cashback, discount or free products, you would always take one without having to think. That's why having online purchases are so addicting. Enter referral marketing, which makes you get more rewards.

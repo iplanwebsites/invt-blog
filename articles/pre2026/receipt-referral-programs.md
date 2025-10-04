@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T13:46:33.236Z"
 modified: "2022-06-09T04:36:57.629Z"
 unsplashPhotoId: "WmnsGyaFnCQ"
+cover: "WmnsGyaFnCQ.jpg"
 featuredReferralProgramTag: "receipt"
 ---
 Did you know that you can earn some small rewards and rebates from your receipts? Some businesses reimburse their customers purchases from time to time. This has been available even before the rise of the internet. Today, you can still get something out of your receipts from your purchases. The new thing about it is that they're available as apps and sites on your personal devices.

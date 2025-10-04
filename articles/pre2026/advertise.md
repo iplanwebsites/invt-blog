@@ -12,6 +12,7 @@ author: "Owc4NhV2y"
 created: "2021-05-10T22:09:13.032Z"
 modified: "2021-06-01T14:05:23.290Z"
 unsplashPhotoId: "2FPjlAyMQTA"
+cover: "2FPjlAyMQTA.jpg"
 ---
 ## **Brands**
 

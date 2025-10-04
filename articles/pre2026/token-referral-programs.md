@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-11T10:39:12.883Z"
 modified: "2022-06-09T04:37:29.638Z"
 unsplashPhotoId: "WtllOYrN70E"
+cover: "WtllOYrN70E.jpg"
 featuredReferralProgramTag: "token"
 ---
 Tokens are dominating investment options nowadays. You can say that more cryptocurrencies are being introduced into the market. However, you always have to remind yourself that cryptocurrencies are volatile when it comes to their value. This means that you have to strategize if you want to make a profit.

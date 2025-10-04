@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:29:34.722Z"
 unsplashPhotoId: "wOHH-NUTvVc"
+cover: "wOHH-NUTvVc.jpg"
 featuredReferralProgramTag: "survey"
 ---
 One of the ways to earn extra income is by answering online surveys. Invitation adds value to that concept by offering you referral rewards that various apps give their users. Check out these referral programs that can help you earn more!

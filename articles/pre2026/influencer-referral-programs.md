@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T13:03:06.208Z"
 modified: "2022-06-09T04:51:21.258Z"
 unsplashPhotoId: "R-8Kkjaztn0"
+cover: "R-8Kkjaztn0.jpg"
 featuredReferralProgramTag: "influencer"
 ---
 Most influencers grow based on their social reach. The more followers you have, the more deals you could possibly get. It's a tough competition on the internet, because as Invitation believes, everyone can be an influencer. Most start small and end up being big quickly.

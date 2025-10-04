@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T12:37:46.540Z"
 modified: "2022-06-09T04:02:17.885Z"
 unsplashPhotoId: "xoU52jUVUXA"
+cover: "xoU52jUVUXA.jpg"
 featuredReferralProgramTag: "budgeting"
 ---
 In the past, you would need a financial advisor to help you manage your income. Nowadays, there tons of budgeting apps and sites out there that help you save. Most of them are even free. They don't replace the financial experts, they are just there to make your money management simple, risk-free, and convenient.

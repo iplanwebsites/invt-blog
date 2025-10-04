@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-03T14:44:27.724Z"
 modified: "2022-06-09T03:34:19.046Z"
 unsplashPhotoId: "lZ_4nPFKcV8"
+cover: "lZ_4nPFKcV8.jpg"
 featuredReferralProgramTag: "savings"
 ---
 Most financial experts would ask, are you really saving if you're not enjoying? Nowadays, joining on savings platforms shouldn't be a sacrifice, but rather an exciting step for your future. There are platforms that are too restricting, but you don't have to go through all that.

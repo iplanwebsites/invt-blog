@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T12:34:19.448Z"
 modified: "2022-06-09T03:54:42.697Z"
 unsplashPhotoId: "6qamnLij7T0"
+cover: "6qamnLij7T0.jpg"
 featuredReferralProgramTag: "digital asset"
 ---
 Before the rise of technology, banks are a prominent in the economy as the means of storing your assets. Enter the online era, making it possible to keep everything secured with instant accessibility. Digital assets are starting to rise today, and have the potential to replace even fiat currencies.

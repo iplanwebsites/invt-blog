@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T14:14:47.256Z"
 modified: "2022-06-09T04:04:19.600Z"
 unsplashPhotoId: "Q8x7gLr8bxg"
+cover: "Q8x7gLr8bxg.jpg"
 featuredReferralProgramTag: "takeout"
 ---
 It's easier to just stay at home and order food from your favorite places. However, there are people who enjoy walking outside, and picking up their orders. In some cases, you might be going home from work, and too tired to cook at home. Takeout is definitely the right way to go.

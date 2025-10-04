@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:09:08.188Z"
 modified: "2022-06-09T04:27:11.527Z"
 unsplashPhotoId: "UL9awo4i_4w"
+cover: "UL9awo4i_4w.jpg"
 featuredReferralProgramTag: "delivery"
 ---
 In the past, it takes a lot of time to have something sent or delivered to you. It could take months for you to have something delivered, especially when the transaction is between different countries. Nowadays, you can get anything delivered at your doorstep with different kinds of apps and websites. Of course, the most famous deliveries are food.

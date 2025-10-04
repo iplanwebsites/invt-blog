@@ -13,6 +13,7 @@ author: "Owc4NhV2y"
 created: "2021-05-10T21:00:31.777Z"
 modified: "2021-09-30T12:46:59.542Z"
 unsplashPhotoId: "V5vqWC9gyEU"
+cover: "V5vqWC9gyEU.jpg"
 hasPhotoColorFilter: false
 ---
 We're a tiny team, striving to provide a free and rewarding experience to thousands of people every day.

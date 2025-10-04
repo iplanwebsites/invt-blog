@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T14:11:48.257Z"
 modified: "2022-06-09T03:47:05.986Z"
 unsplashPhotoId: "UUYkTnQkn9c"
+cover: "UUYkTnQkn9c.jpg"
 featuredReferralProgramTag: "loan"
 ---
 Loans are important in times of emergency. Businesses that focus on loans have adapted to the rise of technology throughout the years. More apps and sites have been developed, so that you can easily apply for a simple loan. It's revolutionizing, because availing a loan has been made easier.

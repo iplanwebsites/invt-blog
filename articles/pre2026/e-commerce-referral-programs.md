@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T14:14:09.371Z"
 modified: "2022-06-09T03:47:19.561Z"
 unsplashPhotoId: "c9FQyqIECds"
+cover: "c9FQyqIECds.jpg"
 featuredReferralProgramTag: "e-commerce"
 ---
 Everyone would agree that going to the mall is a great way to have fun. Shopping for new things is a satisfying hobby. Nowadays, you can simply shop from the comfort of your home. With a simple click on your smartphone, you could get the latest things that you've been saving for.

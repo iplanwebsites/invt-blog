@@ -16,6 +16,7 @@ author: "Owc4NhV2y"
 created: "2021-07-01T10:11:55.464Z"
 modified: "2021-10-11T00:46:45.549Z"
 unsplashPhotoId: "jEGi-CghvjE"
+cover: "jEGi-CghvjE.jpg"
 ---
 Hello everyone! Invitation is looking for an intern with experience in software design, development and debugging. The internship will focus on using Vue.js for front-end development building of user interfaces. The intern that will work with us will gain real-world experience at a young startup company with a rapidly growing community.
 

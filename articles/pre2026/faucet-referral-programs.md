@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-03T14:20:44.437Z"
 modified: "2022-06-09T03:31:54.413Z"
 unsplashPhotoId: "mijhUgzz5TU"
+cover: "mijhUgzz5TU.jpg"
 featuredReferralProgramTag: "faucet"
 ---
 Faucets are a smart way of helping people who are new to investing. If you want to try a new cryptocurrency for example, one way of gauging your risks is to try out their faucet. These are small and free amounts of cryptocurrency given over a period of time. They range from every day, to every five minutes of giving away cryptocurrency!

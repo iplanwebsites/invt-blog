@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-08-12T13:41:32.334Z"
 unsplashPhotoId: "ZmgJiztRHXE"
+cover: "ZmgJiztRHXE.jpg"
 featuredReferralProgramTag: "fashion"
 ---
 When it comes to fashion, you would always want to look your best. It's an everyday challenge to keep up with the trends. It's fun to have a new style too, but did you know that there's your favorite designer brands can offer you more value? These big companies are always on the go to expand daily. 

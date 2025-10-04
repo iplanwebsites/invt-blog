@@ -16,6 +16,7 @@ author: "Owc4NhV2y"
 created: "2022-09-28T07:01:59.403Z"
 modified: "2023-11-25T00:35:56.134Z"
 unsplashPhotoId: "6gQjPGx1uQw"
+cover: "6gQjPGx1uQw.jpg"
 ---
 You might be wondering why Invitation has one of the largest databases for referral programs that you’ll find on the internet. With more than 5,000 referral programs to choose from, you can say that we might have the biggest list out there.
 

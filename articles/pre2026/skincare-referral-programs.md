@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T13:48:53.454Z"
 modified: "2022-06-09T04:37:15.663Z"
 unsplashPhotoId: "CJFG-GOAeVk"
+cover: "CJFG-GOAeVk.jpg"
 featuredReferralProgramTag: "skincare"
 ---
 Everyone has grown when it comes to taking care of themselves. Regular exercise and proper diet has become an effective way of staying healthy. However, can you really say that you're perfectly healthy if you have been neglecting your skin? Skincare is now a necessity for most people, not only because they help maintain beauty, but also they help keep you away from other diseases.

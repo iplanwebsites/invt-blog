@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T14:30:16.015Z"
 modified: "2022-06-09T04:59:21.282Z"
 unsplashPhotoId: "h86PF6MMO1U"
+cover: "h86PF6MMO1U.jpg"
 featuredReferralProgramTag: "luck"
 ---
 It's fun to play games that let you earn when you have luck on your side. Some people believe that luck has always been with them, which makes them invest more time on games that focus on chances. Others tend to defy luck by diligently playing for a long period of time. Regardless of the reason, luck can make games really exciting.

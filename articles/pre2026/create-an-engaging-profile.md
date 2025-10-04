@@ -10,6 +10,7 @@ author: "Owc4NhV2y"
 created: "2021-05-18T11:57:57.473Z"
 modified: "2022-06-30T06:08:36.882Z"
 unsplashPhotoId: "Q7wGvnbuwj0"
+cover: "Q7wGvnbuwj0.jpg"
 ---
 One of the keys to any social media platform is having an engaging profile. The same can be said when you create yours on Invitation! This guide is for all kinds of users, whether you're a newbie or a long-time member! The marketing factor of your profile is just a bonus, the main benefit of having an engaging profile is looking presentable. Find out these quick and easy tips to take your Invitation profile to the next level.
 

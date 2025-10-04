@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:29:47.376Z"
 unsplashPhotoId: "PXnJeZxMuRY"
+cover: "PXnJeZxMuRY.jpg"
 featuredReferralProgramTag: "financial"
 ---
 Many of these apps also have great sign-up bonuses. Your way to financial freedom just got more feasible, with Invitation.

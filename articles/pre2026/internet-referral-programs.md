@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T09:12:40.620Z"
 modified: "2022-06-09T03:52:25.120Z"
 unsplashPhotoId: "CAX85x-DdBk"
+cover: "CAX85x-DdBk.jpg"
 featuredReferralProgramTag: "internet"
 ---
 Internet service providers have grown. You'll notice that they have created apps and sites where you can check and avail their services. Some even offer free networks like VPNs. They're convenient because you don't have to go to a store physically to avail a plan.

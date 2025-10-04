@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T14:02:30.601Z"
 modified: "2022-06-09T04:02:57.056Z"
 unsplashPhotoId: "0FMt-Hw5z3k"
+cover: "0FMt-Hw5z3k.jpg"
 featuredReferralProgramTag: "airdrop"
 ---
 New cryptocurrencies and digital assets launch daily. One common thing about these investment options is they launch giveaways on the day that they open to the public. If you're an investor, you're probably familiar with airdrops where investment companies and platforms give their new cryptocurrencies away for early adopters.

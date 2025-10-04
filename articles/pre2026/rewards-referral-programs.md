@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-03T13:56:02.994Z"
 modified: "2022-06-09T03:32:01.327Z"
 unsplashPhotoId: "R401qwThw7w"
+cover: "R401qwThw7w.jpg"
 featuredReferralProgramTag: "rewards"
 ---
 Most apps and subscriptions offer a point system when you register to them. This practice of gamifying your experience is fun, as you'll get bonuses by simply staying for a period of time on these services. For example, Invitation gives away coins when you do various tasks on the website. Or, there are apps that reward you with points when you shop in them, then the points can be used to get freebies.

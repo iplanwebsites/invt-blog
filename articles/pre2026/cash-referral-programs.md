@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T12:12:16.910Z"
 modified: "2022-06-09T04:32:27.093Z"
 unsplashPhotoId: "eq0obT9rink"
+cover: "eq0obT9rink.jpg"
 featuredReferralProgramTag: "cash"
 ---
 Don't you think apps and websites are getting diverse nowadays? You can actually earn from most of them too. In the past, it will be hard work in exchange for cash, but now you can simply earn even through your phone or pc. It's a business system that runs in the economy where the money somehow trickles down.

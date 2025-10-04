@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-07-01T09:39:08.620Z"
 modified: "2021-07-01T09:54:36.207Z"
 unsplashPhotoId: "tUVf65KIVpI"
+cover: "tUVf65KIVpI.jpg"
 ---
 As we always like to say, everyone is an influencer with Invitation. Today’s feature that we’ll talk about is one of the most exciting ones that we’ve been planning for a long time. We’re proud to introduce “Shops”!
 

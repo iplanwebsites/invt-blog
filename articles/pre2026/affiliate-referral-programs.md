@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:05:25.396Z"
 modified: "2022-06-09T04:05:02.469Z"
 unsplashPhotoId: "YUuSAJkS3U4"
+cover: "YUuSAJkS3U4.jpg"
 featuredReferralProgramTag: "affiliate"
 ---
 Affiliate marketing is a beneficial system that lets businesses grow. One person can establish a wide network of loyal users or consumers. What makes this system effective is that your invites can also invite others. Once it's a big community, you can just maintain your position and train people inviting under you.

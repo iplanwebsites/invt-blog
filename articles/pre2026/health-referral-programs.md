@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T15:08:26.809Z"
 modified: "2022-06-09T03:49:52.679Z"
 unsplashPhotoId: "hIgeoQjS_iE"
+cover: "hIgeoQjS_iE.jpg"
 featuredReferralProgramTag: "health"
 ---
 Health a fundamental aspect of life. We always have to make sure that we take care of ourselves. Being unhealthy is costly. People are under the misconception that being healthier is harder. However, more and more health apps and sites are becoming readily available for people. It goes back to the fact that health is wealth.

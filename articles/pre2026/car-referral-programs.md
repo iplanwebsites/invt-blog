@@ -10,6 +10,7 @@ categoryLabel: referral programs
 author: "Owc4NhV2y"
 created: "2021-08-11T13:03:45.735Z"
 unsplashPhotoId: "c-NEiPIxpYI"
+cover: "c-NEiPIxpYI.jpg"
 featuredReferralProgramTag: "car"
 ---
 Apps and sites for cars continue to grow daily. It's a wide range of services for consumers to enjoy. Whether it's for ride-sharing, car insurance, or transportation rental services, there would definitely be an app or website for it.

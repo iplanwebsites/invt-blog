@@ -16,6 +16,7 @@ author: "Owc4NhV2y"
 created: "2021-05-11T13:54:24.282Z"
 modified: "2021-05-13T22:58:56.427Z"
 unsplashPhotoId: "4dI5OP2Ee64"
+cover: "4dI5OP2Ee64.jpg"
 ---
 At Invitation, we enjoy discovering marketing innovations and business tips, no matter what kind of user you are. This article is specifically for those in the E-commerce industry. Whether you’re a start-up or a seasoned one, you’ll find this article relevant and interesting.
 

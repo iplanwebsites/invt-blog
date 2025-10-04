@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:25:26.075Z"
 unsplashPhotoId: "PhYq704ffdA"
+cover: "PhYq704ffdA.jpg"
 featuredReferralProgramTag: "business"
 ---
 Engaging yourself into businesses is a way to secure your future. We've selected here some of the most trustworthy ones that offer great referral rewards and sign-up bonuses! Have a quick look now!

@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:27:53.935Z"
 unsplashPhotoId: "bR_r3fJu-vk"
+cover: "bR_r3fJu-vk.jpg"
 featuredReferralProgramTag: "mobile-phones"
 ---
 The uprising of mobile phones has made our lives more convenient. What if we told you that it's possible to make more out of this technology? Here are referral programs to apps that offer bonuses for the apps you use. Amazing, isn't it?

@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T13:14:27.869Z"
 modified: "2022-06-09T04:58:42.522Z"
 unsplashPhotoId: "PIrOQrqewLE"
+cover: "PIrOQrqewLE.jpg"
 featuredReferralProgramTag: "electricity"
 ---
 Electricity providers have been innovative these days. There are more ways that they have provided services that are eco-friendly, such as using environmental alternatives to generate power. It's a necessity to have electricity, so it's better that such alternatives are available.

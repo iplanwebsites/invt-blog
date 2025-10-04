@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T13:04:46.341Z"
 modified: "2022-06-09T04:32:48.739Z"
 unsplashPhotoId: "Zyx1bK9mqmA"
+cover: "Zyx1bK9mqmA.jpg"
 hasPhotoColorFilter: true
 featuredReferralProgramTag: "community"
 ---

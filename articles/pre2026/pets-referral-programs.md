@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T02:20:21.984Z"
 unsplashPhotoId: "CB9Sx7wyAVQ"
+cover: "CB9Sx7wyAVQ.jpg"
 featuredReferralProgramTag: "pets"
 ---
 As you use your apps and sites that cater to your pets, you can earn great deals for them too by inviting your pet-lover friends to join you too. Check these 7 referral programs, and take advantage of the bonuses they offer when your friends join!

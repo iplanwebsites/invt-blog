@@ -13,6 +13,7 @@ author: "Owc4NhV2y"
 created: "2021-05-10T21:47:01.597Z"
 modified: "2022-03-29T01:27:57.645Z"
 unsplashPhotoId: "sztWS6R3UlA"
+cover: "sztWS6R3UlA.jpg"
 ---
 ## **For growing influencers**
 

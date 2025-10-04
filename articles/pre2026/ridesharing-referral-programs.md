@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T12:09:28.151Z"
 modified: "2022-06-09T04:30:37.260Z"
 unsplashPhotoId: "D-qq7W751vs"
+cover: "D-qq7W751vs.jpg"
 featuredReferralProgramTag: "ridesharing"
 ---
 The thought of carpooling is a convenient way to save money. Additionally, you're contributing to the environment too, as there will be fewer cars to travel on the road when you share a ride with others. Indeed, convenience comes with a price, but that price can be cheaper. That's why the invention of ride-sharing apps are really effective that they almost made other transportation services pale in comparison.

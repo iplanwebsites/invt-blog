@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T11:55:18.703Z"
 modified: "2022-06-09T04:30:25.028Z"
 unsplashPhotoId: "bRqsXcEcKFw"
+cover: "bRqsXcEcKFw.jpg"
 featuredReferralProgramTag: "casino"
 ---
 The casino industry has been a big one even before the start of the digital age. Many people enjoy the thought of having high risks giving high rewards. It's either you play all-in or play safe in every game that you choose. Some experts even say that casino is the fastest way to earn money, but also the fastest way to lose it.

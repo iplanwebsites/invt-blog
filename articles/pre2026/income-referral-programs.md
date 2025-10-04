@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T13:03:12.441Z"
 modified: "2022-06-09T04:32:38.447Z"
 unsplashPhotoId: "3DS6EBOsv7U"
+cover: "3DS6EBOsv7U.jpg"
 featuredReferralProgramTag: "income"
 ---
 Whether it's for payment services, money transfers, or digital wallets, there's either an app or website for it. There are so many platforms nowadays related to income. Anything about money can now be accessed through a click on your phone or computer. These kinds of apps and sites also offer exclusive deals, like discounts and lower transaction fees.

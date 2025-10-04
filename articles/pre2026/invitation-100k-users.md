@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-06-22T10:22:11.053Z"
 modified: "2021-11-15T14:23:09.861Z"
 unsplashPhotoId: "vrkSVpOwchk"
+cover: "vrkSVpOwchk.jpg"
 ---
 Hey everyone! We're delighted to announce that Invitation has reached 100,000 active users. It has not been that long since the platform was created. Yet, we are continuously overwhelmed by the growing community. We've come a long way, and we wouldn't make it to this point without your support.
 

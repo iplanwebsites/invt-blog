@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T13:45:05.856Z"
 modified: "2022-06-09T04:36:46.168Z"
 unsplashPhotoId: "gLdJnQFcIXE"
+cover: "gLdJnQFcIXE.jpg"
 featuredReferralProgramTag: "storage"
 ---
 Most of your files can be stored online. In the past, you would have to rely on hard drives and USBs to save and backup your important data. However, there are times that you would have to save them elsewhere, just so you have a copy if ever your original files get corrupted. Today, there are online storage that you could use which are safe and secure.

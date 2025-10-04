@@ -19,6 +19,7 @@ authorShortid: "rlImPvZWU"
 created: "2022-03-16T02:44:53.522Z"
 modified: "2022-03-16T13:00:01.075Z"
 unsplashPhotoId: "7k294YFeVbI"
+cover: "7k294YFeVbI.jpg"
 hasPhotoColorFilter: true
 ---
 Did you know that Canadians pay some of the [most expensive cell phone bills](https://nationalpost.com/news/canada/canadas-wireless-costs-continue-to-be-the-highest-or-among-the-highest-in-the-world-finnish-report) in the world? On top of this, the recent effects of the COVID-19 pandemic have forced us to work from home, and sign up for more demanding internet plans. As a result, opportunities to save on telecom services have never been more important to Canadians.&nbsp;

@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T14:18:11.385Z"
 modified: "2022-06-09T04:59:06.755Z"
 unsplashPhotoId: "CA5TJWtWzA8"
+cover: "CA5TJWtWzA8.jpg"
 featuredReferralProgramTag: "cosmetics"
 ---
 Cosmetic products are more than just improvements to physical appearances. Using these kinds of products can help people get a more confident mood. Who's there to stop you from buying what you want anyway? People need to invest in self-care too, especially during hard times.

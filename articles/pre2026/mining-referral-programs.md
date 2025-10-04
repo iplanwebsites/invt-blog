@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-03T14:31:12.780Z"
 modified: "2022-06-09T03:34:09.126Z"
 unsplashPhotoId: "xDnt_ittcU0"
+cover: "xDnt_ittcU0.jpg"
 featuredReferralProgramTag: "mining"
 ---
 Don't have time to grow your investments? Passive earning is a good way to go. Mining apps and sites have been introduced recently to help traders earn on their investments. This system has been introduced which automatically gets you your chosen investment, specifically cryptocurrency, which depends on the power of your equipment or computer.

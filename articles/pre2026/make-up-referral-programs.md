@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T11:10:53.380Z"
 modified: "2022-06-09T04:46:27.948Z"
 unsplashPhotoId: "mVdzV_HTyH4"
+cover: "mVdzV_HTyH4.jpg"
 featuredReferralProgramTag: "make up"
 ---
 Make up products do more than just improve people's appearances. They can also give someone self-esteem and confidence. People don't just use them anymore just to look good, they also help in having a strong mindset and a positive outlook in life.

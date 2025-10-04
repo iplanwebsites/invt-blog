@@ -17,6 +17,7 @@ authorShortid: "vjYGtjrF9"
 created: "2021-05-12T15:52:39.951Z"
 modified: "2021-05-17T14:00:37.120Z"
 unsplashPhotoId: "exVRu6ffK24"
+cover: "exVRu6ffK24.jpg"
 ---
 The Invitation community is rich in diversity because referral or affiliate marketing is something that every type of person can jump into. From crypto traders, influencers, or even the average netizen, there is nothing that can stop you from starting this. This article introduces another awesome Invitation user and talks about a journey of making referral or affiliate marketing into a fun passive income stream. Have fun reading as @caldotcom shares a long and wonderful experience that we can relate to!
 

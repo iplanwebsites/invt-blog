@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:57:17.932Z"
 modified: "2022-06-09T04:30:12.869Z"
 unsplashPhotoId: "4V8uMZx8FYA"
+cover: "4V8uMZx8FYA.jpg"
 featuredReferralProgramTag: "offers"
 ---
 Are you fond of offers that appear on your favorite apps and sites? They're not really boring, since they help you pass the time. On top of that, offer walls also reward you with small in-app or web-exclusive bonuses that you can use on your platform.

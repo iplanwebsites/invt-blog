@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T14:19:00.761Z"
 modified: "2022-06-09T03:47:44.033Z"
 unsplashPhotoId: "qWwpHwip31M"
+cover: "qWwpHwip31M.jpg"
 featuredReferralProgramTag: "management"
 ---
 Most of the time, people monitor their investments to make more profits in the fastest way possible. However, not everyone has the luxury to stay on their various investment platforms. This is why investment management apps and sites have been created.

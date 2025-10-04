@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T10:10:37.358Z"
 modified: "2022-06-09T03:52:36.663Z"
 unsplashPhotoId: "1lmPFQ7ZXeM"
+cover: "1lmPFQ7ZXeM.jpg"
 featuredReferralProgramTag: "clothing"
 ---
 Fashion is always changing depending on the trend. Clothes are sometimes a necessity rather than a luxury. You would always want to shop clothes whenever needed. Nowadays, you can order them online. There are websites for famous fashion shops on the internet too, serving those who are loyal to the brand.

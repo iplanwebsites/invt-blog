@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T11:19:32.763Z"
 modified: "2022-06-09T03:44:08.313Z"
 unsplashPhotoId: "yktK2qaiVHI"
+cover: "yktK2qaiVHI.jpg"
 featuredReferralProgramTag: "marketing"
 ---
 Marketing is a challenging industry. Most people involved here are those that take the risk and responsibility because sometimes, a company's growth depends solely on the actions marketing people take.

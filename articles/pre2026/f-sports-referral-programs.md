@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-11T13:02:09.301Z"
 modified: "2022-06-09T04:45:37.408Z"
 unsplashPhotoId: "XlmiBKcmAdI"
+cover: "XlmiBKcmAdI.jpg"
 featuredReferralProgramTag: "fantasy sports"
 ---
 The popularity of fantasy sports as a fun online game is continuously rising. You can set up a virtual team of your favorite players where their statistics reflect their performance in their real-life teams. It can be compared to being a trader in the stock market where you can buy, sell and trade players to accumulate more points.

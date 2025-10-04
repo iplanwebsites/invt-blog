@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T09:26:05.016Z"
 modified: "2022-06-09T03:36:05.273Z"
 unsplashPhotoId: "QuusekRfTI8"
+cover: "QuusekRfTI8.jpg"
 featuredReferralProgramTag: "platform"
 ---
 Most transactions today are done online. More businesses have created online channels for the services that they offer. This shift has created various platforms which people could benefit from and experience convenience.

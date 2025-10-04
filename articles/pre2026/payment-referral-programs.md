@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-03T15:10:49.226Z"
 modified: "2022-06-09T03:34:51.776Z"
 unsplashPhotoId: "Xn5FbEM9564"
+cover: "Xn5FbEM9564.jpg"
 featuredReferralProgramTag: "payment"
 ---
 The internet generation has provided the world huge deals of convenience. One of which are payment services. Originally, you have to go someplace to settle your bills, all of which can now be done in a single click on your smartphone.

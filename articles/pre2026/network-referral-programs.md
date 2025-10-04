@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T11:58:20.133Z"
 modified: "2022-06-09T03:45:02.865Z"
 unsplashPhotoId: "OKOOGO578eo"
+cover: "OKOOGO578eo.jpg"
 featuredReferralProgramTag: "network"
 ---
 Network is a broad term for various communities and platforms that people use. The common thing about them is that you build connections. They come in various forms such as forums, timelines, or even personal pages with discussion features.

@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T14:15:41.017Z"
 modified: "2022-06-09T04:58:53.655Z"
 unsplashPhotoId: "GMGdhtYeROY"
+cover: "GMGdhtYeROY.jpg"
 featuredReferralProgramTag: "retail"
 ---
 Buying something online is really a convenient way to spend your money. It's cheaper compared to going to a physical store. Most stores offer lower prices, as they have cheaper costs on setting up in various e-commerce platforms.

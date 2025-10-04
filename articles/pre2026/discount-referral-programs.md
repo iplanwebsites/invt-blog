@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:37:24.880Z"
 modified: "2022-06-09T04:29:31.989Z"
 unsplashPhotoId: "DWNkTjLTC7E"
+cover: "DWNkTjLTC7E.jpg"
 featuredReferralProgramTag: "discount"
 ---
 Discounts make everyone happy. A simple coupon can make your day. It's also fulfilling to know that they can be availed anywhere too, even online. From an exclusive sale to additional rebates, discounts have come a long way of helping people save and make room to invest in the future.

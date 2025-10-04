@@ -15,6 +15,7 @@ author: "Owc4NhV2y"
 created: "2021-11-15T02:14:51.296Z"
 modified: "2021-11-16T03:07:09.557Z"
 unsplashPhotoId: "n6BxzwOGTC4"
+cover: "n6BxzwOGTC4.jpg"
 featuredReferralProgramCountryCode: "ph"
 ---
 If you're reading this, you're definitely proud-to-be Pinoy! No one would deny that Filipinos are lovable, whether it's their personality, or culture. When it comes to referrals, Filipinos won't lose either, because #ItsMoreFunInThePhilippines! 🇵🇭❤️🇵🇭❤️

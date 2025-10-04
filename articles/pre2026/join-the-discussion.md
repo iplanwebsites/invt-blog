@@ -10,6 +10,7 @@ categoryLabel: product
 author: "Owc4NhV2y"
 created: "2021-07-01T09:27:38.551Z"
 unsplashPhotoId: "bEcC0nyIp2g"
+cover: "bEcC0nyIp2g.jpg"
 ---
 There are thousands of communities that you can find on the internet. If you’re looking for any topic under the sun, forums and threads are a great way to go. Of course, Invitation offers them too, and we can say that it is one of the most actively growing communities that you’ll find online. Today, we’re talking about Invitation’s “Discussion”.
 

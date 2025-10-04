@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-09-02T14:25:44.992Z"
 unsplashPhotoId: "5UeN8VrCxvs"
+cover: "5UeN8VrCxvs.jpg"
 featuredReferralProgramTag: "meal preparation"
 ---
 Meal kits are highly convenient, especially if you're a hardworking busy person. They bring food to anywhere you are and offer discounts occasionally. These companies also reward your loyalty, because once you invite your friends to avail their service, you'll be rewarded too!

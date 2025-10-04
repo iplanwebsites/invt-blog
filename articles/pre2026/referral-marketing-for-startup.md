@@ -15,6 +15,7 @@ author: "Owc4NhV2y"
 created: "2021-05-11T14:50:09.956Z"
 modified: "2021-06-03T13:49:16.721Z"
 unsplashPhotoId: "gcsNOsPEXfs"
+cover: "gcsNOsPEXfs.jpg"
 ---
 Referral marketing is a great way to grow your business. It's easy, and it's free. In fact, you can get started right now by referring 3 people to this article.
 

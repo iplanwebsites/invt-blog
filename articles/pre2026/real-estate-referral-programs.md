@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T13:01:20.655Z"
 modified: "2022-06-09T04:50:55.579Z"
 unsplashPhotoId: "6japTIjUQoI"
+cover: "6japTIjUQoI.jpg"
 featuredReferralProgramTag: "real estate"
 ---
 Investments in real estate require big decisions. There are also costs to consider when you're thinking about buying a property. It's always best to have every information that you can get before making a decision. When it comes to real estate, knowledge is indeed power.

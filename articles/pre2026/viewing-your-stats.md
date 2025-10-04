@@ -10,6 +10,7 @@ categoryLabel: product
 author: "Owc4NhV2y"
 created: "2021-07-01T09:51:40.599Z"
 unsplashPhotoId: "sGnGU6RGw1g"
+cover: "sGnGU6RGw1g.jpg"
 ---
 Social media has become an essential part of our daily lives. It’s the way we connect with our family and friends. It has also become the means that we show ourselves to others. Therefore, it has become a vital part for every social media platform to show how’s your progress when it comes to your posts, content or anything that you share. With that said, we’ll talk about another feature available on Invitation, “Stats”.
 

@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T13:33:26.088Z"
 modified: "2022-06-09T03:45:29.046Z"
 unsplashPhotoId: "KGcLJwIYiac"
+cover: "KGcLJwIYiac.jpg"
 featuredReferralProgramTag: "mobile"
 ---
 With the rise of smartphones nowadays, various apps and sites were also developed to cater to these powerful technological devices. Most of our lives revolve around the use of mobile phones nowadays for one main reason, convenience. Developers have found a rewarding way to entice users to install various apps, and that's by introducing various referral bonuses on their platforms.

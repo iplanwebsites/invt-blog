@@ -15,6 +15,7 @@ author: "Owc4NhV2y"
 created: "2021-05-11T14:23:45.605Z"
 modified: "2021-06-03T13:48:46.160Z"
 unsplashPhotoId: "y-BIhyjjHv4"
+cover: "y-BIhyjjHv4.jpg"
 ---
 The comparison of bitcoin and gold is a topic of growing interest among people such as investors, traders, and analysts. It’s a debate between a historical asset that has proven its store of value and a rising currency that is digital in nature. In this article, you’ll find their similarities and differences.
 

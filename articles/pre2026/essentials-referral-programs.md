@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-12T10:44:20.982Z"
 modified: "2022-06-09T04:46:58.188Z"
 unsplashPhotoId: "kXQ3J7_2fpc"
+cover: "kXQ3J7_2fpc.jpg"
 featuredReferralProgramTag: "essentials"
 ---
 As vaccines are being distributed around the world, it is still important to have various essentials in stock. As the famous saying goes, prevention is always better than cure. Essentials are not limited to people, as there are essential products that maintain your home.

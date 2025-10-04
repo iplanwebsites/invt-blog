@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:06:57.384Z"
 modified: "2022-06-09T04:27:00.644Z"
 unsplashPhotoId: "gGoi4QTXXBA"
+cover: "gGoi4QTXXBA.jpg"
 featuredReferralProgramTag: "social media"
 ---
 Any social media app or website is bound to grow as long as there are people interacting. Introduce a new feature and your users would continue to grow. Even though they're bound to have a big community, some social media apps and websites take the system to the next level. To make sure that users are authentic and active on the platforms, they introduce referral programs.

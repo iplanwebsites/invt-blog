@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-03T13:42:30.988Z"
 modified: "2022-06-09T03:31:56.372Z"
 unsplashPhotoId: "1zO4O3Z0UJA"
+cover: "1zO4O3Z0UJA.jpg"
 featuredReferralProgramTag: "investment"
 ---
 With the way things are nowadays, it's never a bad idea to start saving. We must always secure the future. However, saving is not enough sometimes. You have to create a buffer on what you save, so you won't have to worry about potential problems.

@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T10:18:08.448Z"
 modified: "2022-06-09T03:52:48.107Z"
 unsplashPhotoId: "mQxttWjHFjA"
+cover: "mQxttWjHFjA.jpg"
 featuredReferralProgramTag: "video"
 ---
 Videos are a massive form of entertainment for people. It's one of the best ways to pass the time or to bond with your loved ones. Some platforms even offer rewards depending on how long have you been streaming. Especially nowadays, where most of us have to stay at home, various kinds of videos have become the way we cope with challenging times.

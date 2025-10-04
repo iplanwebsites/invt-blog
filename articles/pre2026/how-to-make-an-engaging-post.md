@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-11-18T05:43:04.741Z"
 modified: "2021-11-23T04:00:04.211Z"
 unsplashPhotoId: "4YApsoSaNKA"
+cover: "4YApsoSaNKA.jpg"
 ---
 Are you an active user who likes to interact with others? You might have seen posts of people introducing themselves or looking to exchange referral codes/links in the [Discussions](https://next.invitation.codes/discuss) page. Interactions are everywhere. It's undeniable that belongingness is a necessity for everyone. However, a genuine interaction always goes both ways. Can you really call it engagement, if only one person is sharing?
 

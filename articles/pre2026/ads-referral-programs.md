@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T14:16:33.201Z"
 modified: "2022-06-09T03:47:30.528Z"
 unsplashPhotoId: "hhRMczWxGaE"
+cover: "hhRMczWxGaE.jpg"
 featuredReferralProgramTag: "ads"
 ---
 Ads on various apps and websites are a way for businesses to earn more income streams and users. Some even focus on just ads to generate revenue. More specifically, these platforms make deals with various brands, and let users watch them to gain reach for their brand deals.

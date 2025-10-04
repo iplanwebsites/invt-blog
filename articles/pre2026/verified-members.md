@@ -13,6 +13,7 @@ author: "Owc4NhV2y"
 created: "2021-06-13T15:09:20.095Z"
 modified: "2022-06-30T05:54:01.639Z"
 unsplashPhotoId: "m0oSTE_MjsI"
+cover: "m0oSTE_MjsI.jpg"
 ---
 In any social media platform, a blue check next to your username means you're a verified person. It's an iconic symbol that often means authenticity. There are benefits that come with having a blue tick. Invitation offers them too. At Invitation, having a blue tick next to your username means you are an active, influential, and notable user in the community. This also means that you have verified your profile. The perks? You have [more reach, more views and traffic](https://next.invitation.codes/mag/your-traffic) for your referral codes and links!
 

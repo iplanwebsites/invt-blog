@@ -14,6 +14,7 @@ author: "Owc4NhV2y"
 created: "2021-05-10T21:55:50.344Z"
 modified: "2021-10-11T01:00:44.818Z"
 unsplashPhotoId: "JBwcenOuRCg"
+cover: "JBwcenOuRCg.jpg"
 ---
 # **Who are your ambassadors?**
 

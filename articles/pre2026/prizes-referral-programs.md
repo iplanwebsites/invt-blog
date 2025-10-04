@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-11T11:08:22.940Z"
 modified: "2022-06-09T04:39:44.866Z"
 unsplashPhotoId: "hJ5qESN3uaw"
+cover: "hJ5qESN3uaw.jpg"
 featuredReferralProgramTag: "prizes"
 ---
 Everyone loves prizes. It's normal for people to feel competitive because prizes are a good thing. That's why lots of games are also addicting to play. In the past you get to enjoy playing, but what made them more exciting is the rewards that you get.

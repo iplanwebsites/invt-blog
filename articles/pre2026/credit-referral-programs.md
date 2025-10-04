@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-11T12:40:12.562Z"
 modified: "2022-06-09T04:40:19.622Z"
 unsplashPhotoId: "DJoG5GsXfMw"
+cover: "DJoG5GsXfMw.jpg"
 featuredReferralProgramTag: "credit"
 ---
 Credit is important in almost all countries. When you have a good credit standing, you will have the opportunity to get approved for big purchases. For example, car loans, real estate purchases, and even business capital.

@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-11T12:58:39.017Z"
 modified: "2022-06-09T04:40:34.358Z"
 unsplashPhotoId: "1HIKnKtXEU0"
+cover: "1HIKnKtXEU0.jpg"
 featuredReferralProgramTag: "coupon"
 ---
 Coupons go a long way for every business you can ever think of. Nothing makes a customer happier than an exclusive discount. That's also why there are people who like to collect coupons. You would always want a discount whenever possible.

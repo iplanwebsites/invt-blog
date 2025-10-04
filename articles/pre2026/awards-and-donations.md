@@ -14,6 +14,7 @@ author: "Owc4NhV2y"
 created: "2022-05-02T02:45:15.215Z"
 modified: "2022-05-04T14:00:05.476Z"
 unsplashPhotoId: "oqStl2L5oxI"
+cover: "oqStl2L5oxI.jpg"
 ---
 You asked for it, we made it!
 

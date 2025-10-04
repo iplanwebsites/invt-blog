@@ -17,6 +17,7 @@ authorShortid: "3dL2NnX9l"
 created: "2021-05-11T13:19:49.047Z"
 modified: "2021-05-17T13:41:20.544Z"
 unsplashPhotoId: "n95VMLxqM2I"
+cover: "n95VMLxqM2I.jpg"
 hasPhotoColorFilter: true
 ---
 Who doesn't love life hacks? They make our daily lives more convenient and fun. The evolution of the internet has made it possible for people to take advantage of more deals. This interview with another loyal Invitation user is something that you'll definitely relate to. Read ahead as John Mego (@johnmego) shares his amazing experience of finding the best deals online day by day!

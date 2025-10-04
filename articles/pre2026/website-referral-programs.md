@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T13:40:25.804Z"
 modified: "2022-06-09T03:46:54.515Z"
 unsplashPhotoId: "tZc3vjPCk-Q"
+cover: "tZc3vjPCk-Q.jpg"
 featuredReferralProgramTag: "website"
 ---
 Websites have been existing since the invention of the internet. It's a broad category that captures everything you can think of. Majority of websites are free to use too. Website creators and developers all have the same challenge, however. That common thing is retention.

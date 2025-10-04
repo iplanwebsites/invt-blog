@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-09-02T14:36:47.943Z"
 unsplashPhotoId: "S1v7hVUiCg0"
+cover: "S1v7hVUiCg0.jpg"
 featuredReferralProgramTag: "medical"
 ---
 Having medical apps and sites to use can be extremely helpful in case of emergencies. Some of these apps and sites are still growing. By inviting your friends to use them, you're helping the world become a better place and at the same time, earn referral bonuses.

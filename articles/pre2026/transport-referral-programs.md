@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:03:12.747Z"
 modified: "2022-06-09T04:04:52.257Z"
 unsplashPhotoId: "IisDI6liZEM"
+cover: "IisDI6liZEM.jpg"
 featuredReferralProgramTag: "transportation"
 ---
 Business have made it possible to enter the transportation industry. Remember when the first transportation apps were made? They almost made other vehicle services like taxis and buses go out of business in some countries. This just proves that convenience really goes a long way.

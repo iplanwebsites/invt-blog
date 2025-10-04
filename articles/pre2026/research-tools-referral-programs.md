@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:20:41.316Z"
 unsplashPhotoId: "8mikJ83LmSQ"
+cover: "8mikJ83LmSQ.jpg"
 featuredReferralProgramTag: "research"
 ---
 Are you a fan of research apps and websites? Answering questions related to their study can be a great way to earn. Furthermore, there are so many apps and sites that give you bonuses when you refer or invite your friends to them because that helps them a lot too! Here are some programs and apps that you can try and use!

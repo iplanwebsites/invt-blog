@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-05T14:16:21.709Z"
 modified: "2022-06-09T04:04:31.077Z"
 unsplashPhotoId: "x8ZStukS2PM"
+cover: "x8ZStukS2PM.jpg"
 featuredReferralProgramTag: "eco-friendly"
 ---
 There are more options today to being eco-friendly. One of the most convenient ones is through some apps and sites. These platforms have been created in support of preserving the environment. For instance, alternative electricity service providers that depend on solar power. Another example are apps that are not related to the environment at all, but do outreach programs and projects based on in-app achievements by their users.

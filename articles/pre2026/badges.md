@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-05-27T20:51:57.306Z"
 modified: "2022-06-30T04:42:02.314Z"
 unsplashPhotoId: "E8pm9NKWbJM"
+cover: "E8pm9NKWbJM.jpg"
 hasPhotoColorFilter: true
 ---
 Achievements are fulfilling to accomplish, especially on your favorite social websites. Here on Invitation, we make them more fun by gamifying achievements. To make things more exciting, we have easter eggs for everyone.

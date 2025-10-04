@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T15:17:55.621Z"
 modified: "2022-06-09T03:50:41.900Z"
 unsplashPhotoId: "zkau_WJSFzk"
+cover: "zkau_WJSFzk.jpg"
 featuredReferralProgramTag: "food delivery"
 ---
 Nothing beats fresh food delivered to your doorstep. You don't have to cook, and you don't have to go outside. Nowadays, you can simply get food through the various apps and sites available with a single click on your phone.

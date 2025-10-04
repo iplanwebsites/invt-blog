@@ -24,6 +24,7 @@ author: "Owc4NhV2y"
 created: "2021-11-19T22:34:46.691Z"
 modified: "2021-11-19T23:19:38.460Z"
 unsplashPhotoId: "P3pI6xzovu0"
+cover: "P3pI6xzovu0.jpg"
 customHtmlCode: "<script src=\"https://static.airtable.com/js/embed/embed_snippet_v1.js\"></script><iframe class=\"airtable-embed airtable-dynamic-height\" src=\"https://airtable.com/embed/shryhL84a4UvVwsvg?backgroundColor=green\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"2242\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>"
 ---
 In 2022, we'll continue to grow the community, analyze referral programs and use too much emoji.[✊](https://emojis.wiki/raised-fist/)💥

@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-04T11:35:26.839Z"
 modified: "2022-06-09T03:44:19.390Z"
 unsplashPhotoId: "NQZiQxuIyFk"
+cover: "NQZiQxuIyFk.jpg"
 featuredReferralProgramTag: "service"
 ---
 Everyone wants great service. A simple transaction can be more valuable with how service providers treat you. These aren't just limited to subscriptions, they can apply to the necessary services that you use regularly. One huge thing that various services have in common, is they try to grow while trying to give you something more. It's a win-win exchange between us, the consumers, and them, the businesses.

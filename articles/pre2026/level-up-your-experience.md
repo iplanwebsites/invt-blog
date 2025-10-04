@@ -16,6 +16,7 @@ author: "Owc4NhV2y"
 created: "2022-09-12T06:02:22.829Z"
 modified: "2022-10-25T23:36:40.559Z"
 unsplashPhotoId: "_uM5_nG2ssc"
+cover: "_uM5_nG2ssc.jpg"
 ---
 Any social website has its learning curve. You discover the most basic features, then, later on, find the exclusive ones that make that platform unique. TikTok has short yet engaging videos. Instagram has those eye-catching images. Reddit gives you threads where there are a lot of discussions involved.
 

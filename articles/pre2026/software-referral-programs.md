@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:27:37.943Z"
 unsplashPhotoId: "iar-afB0QQw"
+cover: "iar-afB0QQw.jpg"
 featuredReferralProgramTag: "software"
 ---
 From free premium features for a month to an extravagant yearly subscription bonus, you can take advantage of these referral programs on Invitation to make the most out of your software deals!

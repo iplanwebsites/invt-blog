@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-11T13:00:04.426Z"
 modified: "2022-06-09T04:45:24.469Z"
 unsplashPhotoId: "jIBMSMs4_kA"
+cover: "jIBMSMs4_kA.jpg"
 featuredReferralProgramTag: "bot"
 ---
 Bots are convenient tools for the processes that you have online. They can help you in simple to complex tasks. For instance, your investments. They can make you think twice, but bots can actually trade for you. If you're quite busy, they could come in handy.

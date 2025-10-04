@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-08-12T13:45:54.665Z"
 unsplashPhotoId: "OBCrXc7BAIQ"
+cover: "OBCrXc7BAIQ.jpg"
 featuredReferralProgramTag: "entertainment"
 ---
 Enjoying the free time you have is one of the best experiences life can offer. The apps and sites you spend your time on offer extra perks when you invite your friends or share your referral codes or links. 

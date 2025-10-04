@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-09T14:41:56.273Z"
 modified: "2022-06-09T04:29:59.569Z"
 unsplashPhotoId: "7nrsVjvALnA"
+cover: "7nrsVjvALnA.jpg"
 featuredReferralProgramTag: "web traffic"
 ---
 There's no thinking twice on how to get more web traffic. It's simply by inviting more people. What makes this more complicated is that, how do you let them stay. Inviting people to use an app or website is easy, but making them stay is what generates web traffic. That's why web traffic apps and sites that help you manage your users are very convenient nowadays.

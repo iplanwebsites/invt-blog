@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-06-01T08:49:23.360Z"
 unsplashPhotoId: "HlNcigvUi4Q"
+cover: "HlNcigvUi4Q.jpg"
 featuredReferralProgramTag: "food"
 ---
 Here's a mix of food delivery and meal kit services that offer great sign-up incentives, as well as generous bonuses when you invite friends. Have a bite!

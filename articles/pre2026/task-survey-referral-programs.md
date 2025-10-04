@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-08-03T12:46:05.001Z"
 unsplashPhotoId: "gcsNOsPEXfs"
+cover: "gcsNOsPEXfs.jpg"
 featuredReferralProgramTag: "task"
 ---
 There are so many things you can do online to earn extra. One of the simplest ways to earn extra is by accomplishing tasks on your phone or computer. We've verified those that offer referral bonuses, so you can have more opportunities! Check them out right now.

@@ -10,6 +10,7 @@ author: "Owc4NhV2y"
 created: "2021-05-18T14:58:22.795Z"
 modified: "2022-06-30T06:06:40.775Z"
 unsplashPhotoId: "WJPHTJEtgzw"
+cover: "WJPHTJEtgzw.jpg"
 ---
 There is always a constant struggle for newcomers on every social media network. Any platform involving a personalized profile, whether it belongs to a beginner or expert, encounters this challenge: visibility. It's normal to experience minimal views, visits or whatever visibility statistic you could think of. That's why we made this guide for you, so that you can build your way up. At Invitation, no one gets left behind, everyone has the equal chance of getting more post views and profile visits!
 

@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2021-09-02T14:18:08.992Z"
 unsplashPhotoId: "rgJ1J8SDEAY"
+cover: "rgJ1J8SDEAY.jpg"
 featuredReferralProgramTag: "insurance"
 ---
 Some insurance options are costly, but you'll understand how valuable they are once you encounter emergencies. It's really a way to secure your future. You just have to be mindful of how much you are investing towards them. However, there are companies that are compassionate to help you out.

@@ -12,6 +12,7 @@ tags:
 created: "2021-05-24T16:04:03.361Z"
 modified: "2022-06-09T03:29:26.008Z"
 unsplashPhotoId: "4_jhDO54BYg"
+cover: "4_jhDO54BYg.jpg"
 featuredReferralProgramTag: "food"
 ---
 Everyone likes food. Food brings people closely together. Most people believe that it is okay to spend more when it comes to food. We agree to this too! As you spend more on food, these referral programs would help you save with incredible deals and promos!

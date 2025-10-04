@@ -10,6 +10,7 @@ author: "Owc4NhV2y"
 created: "2021-05-19T11:37:51.680Z"
 modified: "2022-06-30T06:03:02.509Z"
 unsplashPhotoId: "w7ZyuGYNpRQ"
+cover: "w7ZyuGYNpRQ.jpg"
 ---
 Finding the best referral programs that you can post and promote can be challenging. From thousands to millions, the variety of referral programs continues to grow, especially here on Invitation. Remember, referrals are a great way to save or earn, depending on how yours are mostly used. The benefit of referrals is that there is nothing to lose. You can either do referral marketing full-time or part-time!
 

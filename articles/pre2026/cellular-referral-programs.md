@@ -11,6 +11,7 @@ author: "Owc4NhV2y"
 created: "2021-08-10T12:10:49.805Z"
 modified: "2022-06-09T04:32:15.470Z"
 unsplashPhotoId: "GXNo-OJynTQ"
+cover: "GXNo-OJynTQ.jpg"
 featuredReferralProgramTag: "cellular"
 ---
 Some say that having a phone plan is cheaper than going prepaid. In some cases, this wouldn't be true, but if you're a busy person, then it can help you save more. There are various bundles that you can enjoy with your favorite telecom companies, and on top of that, they give away exclusive deals through referral programs.
